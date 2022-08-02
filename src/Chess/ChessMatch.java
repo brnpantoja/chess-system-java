@@ -3,7 +3,6 @@ package Chess;
 import Boardgame.Board;
 import Boardgame.Piece;
 import Boardgame.Position;
-import Chess.Pieces.King;
 import Chess.Pieces.Rook;
 
 public class ChessMatch {
